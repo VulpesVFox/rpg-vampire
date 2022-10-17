@@ -4,16 +4,26 @@ This is gonna be my first published Origin
 RPG Vampire
 
 >  :baby_bottle: Newborn
+
        | Able to Evolve, when reaching LVL 50
+
          :green_heart: Bloodsucking
+
          You can suck the Blood out of your Target, which slowly damages it while saturating and regenerating you.
+
          :green_heart: Vampiric Body
+
          You are walking faster, deal 1 more damage and heal faster
+         
          :yellow_heart: Undead
+        
          + Undead are neutral to you
-         - You start burning when under the sun
-         = Instant Damage and Instant Health are working reversed, while you are immune to poison and regeneration, while Smite also is effective
-         :heart: Newborn
+        
+        - You start burning when under the sun
+        
+        = Instant Damage and Instant Health are working reversed, while you are immune to poison and regeneration, while Smite also is effective
+        
+        :heart: Newborn
          Your Vampiric powers are new to you, so you don't know how to control them properly, which results in a crave for more Blood
          
 > :axe:  Berserker
