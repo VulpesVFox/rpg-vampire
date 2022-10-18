@@ -7,7 +7,7 @@ This is gonna be my first published Origin
 
 :purple_heart: Bloodsucking
 
-You can bite the living to consume their Blood, which heals and saturates you, while the one that you bit will be disorientated.
+You can bite the living to consume their Blood, which heals and saturates you, while the one that you have bitten, will be disorientated.
 
 :green_heart: Vampiric Body
 
@@ -24,6 +24,8 @@ You are walking faster, deal 1 more damage and heal faster
 :heart: Newborn
 
 Your Vampiric powers are new to you, so you don't know how to control them properly, which results in a crave for more Blood
+
+:heart: 
          
 ## :axe:  Berserker
 
