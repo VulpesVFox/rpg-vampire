@@ -7,7 +7,7 @@ This is gonna be my first published Origin
 
 :purple_heart: Bloodsucking
 
-You can suck the Blood out of your Target, which slowly damages it while saturating and regenerating you.
+You can bite the living to consume their Blood, which heals and saturates you, while the one that you bit will be disorientated.
 
 :green_heart: Vampiric Body
 
