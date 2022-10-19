@@ -7,11 +7,11 @@ This is gonna be my first published Origin
 
 :purple_heart: Bloodsucking
 
-You can bite creatures to consume their Blood, which heals and saturates you, while the one that you have bitten, will be disorientated.
+You can bite creatures to consume their Blood, which heals and saturates you, while the one that you have bitten, will be damaged and disorientated.
 
 :green_heart: Vampiric Body
 
-You are walking faster, deal 1 more damage and heal faster
+You are walking faster, deal 1 more damage and have a natural regeneration above 7,5 Hearts
 
 :yellow_heart: Undead
 
@@ -43,7 +43,7 @@ You've learned how to store excess blood and use it later for your powers
 
 :green_heart: Predator
 
-You can consume the blood of raw meat, but its not effective
+You can consume the blood of raw meat, but its not very saturating
 
 ## :star_of_david: Blood Hunter
 
@@ -68,6 +68,8 @@ You've learned how to store excess blood and use it later for your powers
 :purple_heart: Blood Sacrifice
 
 \+ You will not be able to die, while using a Shield, unless you lose all your stored Blood
+
+\+ Your shield will repair automatically, while you have stored blood. Toggle able 
 
 \- Unable to attack or move while using a Shield
 
