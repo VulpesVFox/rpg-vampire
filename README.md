@@ -69,7 +69,7 @@ You've learned how to store excess blood and use it later for your powers
 
 \+ You will not be able to die, while using a Shield, unless you lose all your stored Blood
 
-\+ Your shield will repair automatically, while you have stored blood. Toggle able 
+\+ Your shield will repair automatically, while you have stored blood. Can be toggled
 
 \- Unable to attack or move while using a Shield
 
