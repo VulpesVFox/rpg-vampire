@@ -1,0 +1,48 @@
+{
+	"type": "origins:multiple",
+	"name": "Biting",
+	"description": "-",
+	"ko": {
+		"type": "origins:overlay",
+		"texture": "minecraft:textures/misc/nausea.png",
+		"strength": 0.25,
+		"red": 1.0,
+		"green": 0.0,
+		"blue": 0.0,
+		"draw_mode": "nausea",
+		"draw_phase": "above_hud",
+		"hide_with_hud": false,
+		"visible_in_third_person": false
+	},
+	"rm": {
+		"type": "origins:action_over_time",
+    	"entity_action": {
+    	    "type": "origins:execute_command",
+        	"command": "power revoke @s vvf-vam:nwbrn/bite_act"
+    		},
+    	"interval": 40
+	},
+	"saturating": {
+		"type": "origins:action_over_time",
+    	"entity_action": {
+    	    "type": "origins:and",
+			"actions": [{
+					"type": "origins:heal",
+					"amount": 0.5
+				},{
+					"type": "origins:feed",
+    				"food": 2,
+					"saturation": 2
+				}
+			]
+		},
+    	"interval": 10
+	},
+	"resource": {
+		"type": "origins:action_on_callback",
+    	"entity_action_gained": {
+        "type": "origins:execute_command",
+        "command": "resource set @s vvf-vam:nwbrn/bite_cooldown_rs 200"
+    	}
+	}
+}

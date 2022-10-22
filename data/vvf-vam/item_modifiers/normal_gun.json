@@ -1,0 +1,53 @@
+[{
+		"function": "minecraft:set_lore",
+		"entity": "this",
+		"lore": [{
+			"text": "Loaded with Rs-1.0",
+			"color": "white",
+			"italic": true
+		}],
+		"replace": true
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{phantom:0b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{normalSize:1b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{largeSize:0b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{smallSize:0b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{relocate:0b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{void:0b}"
+	},
+	{
+
+		"function": "minecraft:set_nbt",
+		"entity": "this",
+		"tag": "{gun:1b}"
+	}
+]

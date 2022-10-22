@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"vvf-vam:ev_desc",
+		"vvf-vam:nwbrn/undead",
+		"vvf-vam:nwbrn/vambody",
+		"vvf-vam:nwbrn/bite"
+	],
+	"icon": {
+	"item": "minecraft:potion",
+	"tag": "{CustomPotionColor:14815776}"
+	},
+	"order": 0,
+	"impact": 2,
+	"name": "Newborn Vampire",
+	"description": ""
+}
