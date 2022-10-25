@@ -43,7 +43,7 @@
 		"interval": 200,
     	"entity_action": {
        		"type": "origins:execute_command",
-			"command": "team join Undead @e[type=#vvf-vam:dead]"
+			"command": "team join Undead @e[type=#vvf-vam:undead]"
         }
     }
 }
